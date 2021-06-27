@@ -74,4 +74,4 @@ Dicoding Rock Paper Scissors Image Classification using CNN
 
 * Accuracy
 
-![](/img/download (1).png)
+![](/img/download%20(1).png)
